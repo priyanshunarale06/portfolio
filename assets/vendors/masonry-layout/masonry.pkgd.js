@@ -1,18 +1,4 @@
-/*!
- * Masonry PACKAGED v4.2.0
- * Cascading grid layout library
- * http://masonry.desandro.com
- * MIT License
- * by David DeSandro
- */
 
-/**
- * Bridget makes jQuery widgets
- * v2.0.1
- * MIT license
- */
-
-/* jshint browser: true, strict: true, undef: true, unused: true */
 
 ( function( window, factory ) {
   // universal module definition
